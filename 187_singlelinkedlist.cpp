@@ -61,3 +61,9 @@ bool searchNode(int nim, Node* current, Node* previous) {
     {
         return true;
     }
+    else
+    {
+        return false;
+    }
+}
+
